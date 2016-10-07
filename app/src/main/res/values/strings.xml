@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HelloWorldProject</string>
+    <string name="myString">Welcome to Mobile Application Development!</string>
+    <string name="okButton">Press Me!</string>
+    <string name="editMessage">Enter a Message</string>
 </resources>
